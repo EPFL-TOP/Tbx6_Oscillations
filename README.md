@@ -7,9 +7,10 @@ The repository contains:
 
 The script `Venzinetal_figures.py` should be run with Python > 3.7 and the packages version specified in the `env.yml`
 
-Create the environment like
+Create the environment and activate it
 ```shell
 conda env create -f env.yml
+conda activate Tbx6_Oscillations
 ```
 
 then go in the folder `Data_Venzin_et_al/Python_scripts` and run 
